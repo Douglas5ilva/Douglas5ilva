@@ -11,4 +11,4 @@ Sou um Desenvolvedor apaixonado pelas melhores tecnologias de desenvolvimento we
   <a href="https://github.com/Douglas5ilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas5ilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas5ilva&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> 
