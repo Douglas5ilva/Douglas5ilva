@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou um Desenvolvedor apaixonado pelas melhores tecnologias de desenvolvimento web. Tenho experiência com projetos usando JavaScript, NodeJS e ReactJS. Fui aluno do [ProgramadorBr](https://programadorbr.com/), no curso DESENVOLVIMENTO WEB FULL STACK, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web.<br/>
+Sou um Desenvolvedor apaixonado pelas melhores tecnologias de desenvolvimento web. Tenho experiência com projetos usando JavaScript, NodeJS e ReactJS. Fui aluno do [ProgramadorBr](https://programadorbr.com/), no curso DESENVOLVIMENTO WEB FULL STACK, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web. Também participei de ventos da [Rocketseat](rocketseat.com.br)<br/>
 
 * 🌱 I have experience with JavaScript, Node.js and ReactJS.
 * See my Projects: [https://douglas1.vercel.app/](https://douglas1.vercel.app/)
